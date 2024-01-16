@@ -1,0 +1,4 @@
+venv
+checkpoint_dir
+.DS_Store
+utils/__pycache__
